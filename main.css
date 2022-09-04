@@ -1,0 +1,42 @@
+.main{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #e88032;
+    font-weight: bold;
+}
+.header{
+    margin-top: 4rem;
+    color: #e88032;
+    text-align: center;
+}
+.row{
+    width: 25rem;
+}
+
+.output{
+    font-size: 1.3rem;
+    color: #e88032;
+}
+.footer{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+a {
+    color: #e88032;
+}
+
+.btn-primary {
+    background-color:#e88032;
+    border-color: white;
+}
