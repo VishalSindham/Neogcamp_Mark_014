@@ -33,7 +33,7 @@ function calculateProfitAndLoss(init,qt,pr)
         
     }
     else if(costPrice == sellingPrice){
-        flag="nuetral"
+        flag="neutral"
         return [flag,0,0]
     }
     
